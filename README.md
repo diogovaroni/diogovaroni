@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Olá! Sou o Diogo Varoni
+- ☁️🖥️  Sou estagiário de Cloud Service na empresa BRF
+- 🎓🎓  Curso Sistemas de Informação na Universidade Positivo, com formação prevista para Julho/2024
+- 📒✏️  Atualmente estudo para me aprofundar cada vez mais em ambientes em nuvem, como Microsoft Azure, IBM Cloud e AWS
+- 🧑🏻‍💻⌨️  Também sou um entusiasta de programação, com conhecimentos em Java, C#, HTML, CSS e Javascript
 
 <div align="center">
   <a href="https://github.com/diogovaroni">
